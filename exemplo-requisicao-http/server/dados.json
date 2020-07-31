@@ -1,0 +1,31 @@
+{
+  "carros": [
+    {
+      "id": 1,
+      "nome": "Golf gti",
+      "ano": "2018",
+      "versao": "highline"
+    },
+    {
+      "nome": " gol",
+      "versao": "12",
+      "ano": "2018",
+      "id": 2
+    },
+    {
+      "nome": "fox",
+      "versao": "12",
+      "ano": "210",
+      "id": 4
+    },
+    {
+      "nome": "anderson",
+      "versao": "akrk",
+      "ano": "21",
+      "id": 5
+    }
+  ],
+  "marcas": [],
+  "modelos": [],
+  "cores": []
+}
